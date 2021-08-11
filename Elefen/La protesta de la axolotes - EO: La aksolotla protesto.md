@@ -1,6 +1,6 @@
-La protesta de axolotes
+La protesta de la axolotes
 
-Salamandras es multe relijiosa.
+La salamandras es multe relijiosa.
 Sua relijio es composada de multe rituos.
 Un de la rituos es la rituo de adulti.
 Cuando un salamandra ateni un eda spesifada, el debe bevi un licuida brun spesial.
