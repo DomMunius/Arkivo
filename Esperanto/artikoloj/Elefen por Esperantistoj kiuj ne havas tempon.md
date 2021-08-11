@@ -101,8 +101,8 @@ Ekzistas nur unu poseda pronomo/difinilo je la tria persono: "**sua**". Do oni n
 
 Netransitivaj verboj iĝas transitivaj kiam oni donas al ili objekton.
 
-> arbor **arde**: arbo *brulas*  
-> nos **arde** arbor: ni *bruligas* arbon  
+> un arbor **arde**: arbo *brulas*  
+> nos **arde** un arbor: ni *bruligas* arbon  
 
 Oni povas krei verbon el adjektivo per aldono de "**-i**" (aŭ ŝanĝi la lastan literon se ĝi estas vokalo). La signifo estas kiel "*-igi*" en Esperanto.
 
